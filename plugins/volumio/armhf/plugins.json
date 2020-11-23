@@ -679,6 +679,24 @@
 						}
 					],
 					"updated": "29-3-2019"
+				},
+				{
+					"prettyName": "gpio-buttons-plus",
+					"icon": "fa-lightbulb-o",
+					"name": "gpio-buttons-plus",
+					"version": "1.0.0",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/system_controller/gpio-buttons-plus/gpio-buttons-plus.zip",
+					"license": "ISC",
+					"description": "Control Volumio playback with GPIO buttons",
+					"details": "Control Volumio using GPIO buttons. Builds on previous work by tomatpasser",
+					"author": "stupotmcdoodlepip",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "22-11-2020"
 				}
 			]
 		},
